@@ -9,7 +9,7 @@ numpy < 2.0.0
 requests
 tqdm
 py-cpuinfo
-transformers < 4.43
+transformers < 5.6
 tokenizers >= 0.19.1  # Required for Llama 3.
 fastapi
 aiohttp
