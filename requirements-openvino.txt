@@ -28,7 +28,7 @@ pyzmq
 gguf == 0.9.1
 
 # OpenVINO dependencies
-torch >= 2.1.2
+torch >= 2.13.0
 openvino ~= 2024.3.0.dev
 openvino-tokenizers[transformers] ~= 2024.3.0.0.dev
 optimum-intel[openvino] >= 1.18.1
